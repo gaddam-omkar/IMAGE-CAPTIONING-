@@ -1,4 +1,4 @@
-🖼️ Design and Development of Image Captioning with Neural Networks using AI & ML
+🖼️ **Design and Development of Image Captioning with Neural Networks using AI & ML**
 📌 Project Overview
 
 The project aims to develop an AI-powered Image Captioning System that can automatically generate human-like captions for images.
