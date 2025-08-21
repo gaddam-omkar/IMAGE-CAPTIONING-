@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+streamlit
+Pillow
+gTTS
+matplotlib
+pandas
+numpy
