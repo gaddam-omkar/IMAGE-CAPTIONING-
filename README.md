@@ -98,5 +98,12 @@ Extend to video captioning.
 Use transformer-based models with attention for improved accuracy.
 
 
+ HEY , to run this code which i have attached which is FYP.py , open your VS CODE , and select open file and select this FYP.py file where you have downloaded .
+To successfully run this code you should use this command --->  " python -m streamlit run FYP.py "   , this is the command for running the streamlit web app interface . 
+
+NOTE : WE CAN GIVE ANY FILENAME NOT ONLY FYP.py , SO WE HAVE TO JUST ENTER THE FILE NAME IN PLACE OF .py .
+EXAMPLE : " python -m streamlit run filename.py " <----LIKE THIS .
+
+
 
 
